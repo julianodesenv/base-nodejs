@@ -11,7 +11,7 @@
     "node.js",
     "nodejs"
   ],
-  "author": "Juliano Desenv <SON>",
+  "author": "Juliano Monteiro <Desenv>",
   "license": "ISC",
   "dependencies": {
     "websocket": "^1.0.23"
