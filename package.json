@@ -1,6 +1,6 @@
 {
   "name": "base-node-test",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "base node",
   "main": "app.js",
   "scripts": {
