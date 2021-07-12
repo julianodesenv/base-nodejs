@@ -1,5 +1,5 @@
 {
-  "name": "node",
+  "name": "base-node-test",
   "version": "2.0.0",
   "description": "base node",
   "main": "app.js",
